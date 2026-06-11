@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Live Host AI",
+  "description": "AI Live Stream Host & Digital Avatar for high-performance 24/7 automated TikTok Shop compliance-guardrailed product sales with bring-your-own-key APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
